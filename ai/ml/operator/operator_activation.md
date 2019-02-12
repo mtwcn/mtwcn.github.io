@@ -4,7 +4,7 @@
 
 Activation
 
-Relu 
+Relu
 ----
 
 #### 公式：  
@@ -14,7 +14,7 @@ $$ y = \max_{}(0,x) $$
 #### 函数：
 
 <p align="left">
-![](/library/img/ai_ml/operator_relu.png) </p>
+![](/ai/ml/operator/res/operator_relu.png) </p>
 
 #### 实现
 
@@ -23,12 +23,12 @@ Relu6
 
 #### 公式：  
 
-$$ y = \ min (6, \max_{}(0,x)) $$ 
+$$ y = \ min (6, \max_{}(0,x)) $$
 
 #### 函数：
 
 <p align="left">
-![](/library/img/ai_ml/operator_relu6.png) </p>
+![](/ai/ml/operator/res/operator_relu6.png) </p>
 
 #### 实现
 
@@ -42,11 +42,11 @@ $$ y = \min(1, \max_{}(-1,x))  $$
 #### 函数：
 
 <p align="left">
-![](/library/img/ai_ml/operator_relu1.png) </p>
+![](/ai/ml/operator/res/operator_relu1.png) </p>
 
 #### 实现
 
- 	
+
 
 TANH
 ----
@@ -59,7 +59,7 @@ $$ tanh(x) = {sinh(x) \over cosh(x)} = {e^x - e^{-x}  \over e^x + e^{-x} } $$
 #### 函数：
 
 <p align="left">
-![](/library/img/ai_ml/operator_tanh.png) </p>
+![](/ai/ml/operator/res/operator_tanh.png) </p>
 
 #### 实现
 
@@ -83,8 +83,6 @@ $$ y = {1 \over 1 + e^{-x}}   $$
 #### 函数：
 
 <p align="left">
-![](/library/img/ai_ml/operator_logistic.png) </p>
+![](/ai/ml/operator/res/operator_logistic.png) </p>
 
 #### 实现
-
-

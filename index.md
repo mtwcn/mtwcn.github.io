@@ -1,28 +1,27 @@
-Test example websites
------------------------
+人工智能
+---
+  * [软件](ai/ai_software.md)
+  * [机器学习](ai/ai_ml.md)
+  * [芯片](ai/ai_chipset.md)
+  * [市场](ai/ai_marketing.md)
+  * [评测](ai/ai_benchmark.md)
 
-This is a list of examples websites that are created with [MDwiki]. The full source of all the websites is available at [GitHub][githubrepo].
+技术
+---
+  * [Android](subitem1.md)
+  * [Kernel](subitem2.md)
 
-* [Sample coffee place](cafe/) [[Markdown source]][cafe]
-* [Simple travel blog website](travel_blog/) [[Markdown source]][travelblog]
-* [Single-page fansite about Muscle Cars](muscle_cars/index.txt) [[Markdown source]][musclecards]
+人文
+---
+  * [历史](subitem1.md)
 
-[MDwiki]: http://www.mdwiki.info
-[githubrepo]: http://github.com/Dynalon/mdwiki-examples/
-[cafe]: https://github.com/Dynalon/mdwiki-examples/tree/gh-pages/cafe
-[musclecards]: https://github.com/Dynalon/mdwiki-examples/tree/gh-pages/muscle_cars
-[travelblog]: https://github.com/Dynalon/mdwiki-examples/tree/gh-pages/travel_blog
+科学
+---
+  * [物理](subitem1.md)
 
-Wiki
-----
+数学
+---
+  * [数](math/math_number.md)
 
-See [MDwiki.info][wiki] (which is created with MDwiki itself) for more information and a more powerful example [[Markdown source]][mdwikisrc]
-
-  [mdwikisrc]: https://github.com/Dynalon/mdwiki/tree/gh-pages
-  [wiki]: http://mdwiki.info/
-
-License
--------
-All websites may be freely modified and changed for your purposes. Note that some images are licensed under [CC-BY(-ND/-SA) 2.0][cc] terms and you have to respect the copyright of the images.
-
-  [cc]: http://creativecommons.org/licenses/
+阅读
+---
